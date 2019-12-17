@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.yusite.hello.maven.release</groupId>
-    <artifactId>module-a</artifactId>
+    <artifactId>module-c</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>module-a</name>
-    <description>模块a</description>
+    <name>module-c</name>
+    <description>模块c</description>
 
     <properties>
         <java.version>1.8</java.version>
